@@ -1,8 +1,8 @@
 package ioc
 
 import (
-	"github.com/asynccnu/be-infoSum/pkg/logger"
-	"github.com/asynccnu/be-infoSum/repository/dao"
+	"github.com/asynccnu/be-infosum/pkg/logger"
+	"github.com/asynccnu/be-infosum/repository/dao"
 	"github.com/spf13/viper"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

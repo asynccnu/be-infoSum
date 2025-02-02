@@ -3,8 +3,8 @@ package grpc
 import (
 	"context"
 	InfoSumv1 "github.com/asynccnu/be-api/gen/proto/infoSum/v1"
-	"github.com/asynccnu/be-infoSum/domain"
-	"github.com/asynccnu/be-infoSum/service"
+	"github.com/asynccnu/be-infosum/domain"
+	"github.com/asynccnu/be-infosum/service"
 	"github.com/go-kratos/kratos/v2/transport/grpc"
 	"github.com/jinzhu/copier"
 	"gorm.io/gorm"

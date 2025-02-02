@@ -3,7 +3,7 @@ package cache
 import (
 	"context"
 	"encoding/json"
-	"github.com/asynccnu/be-infoSum/domain"
+	"github.com/asynccnu/be-infosum/domain"
 	"github.com/redis/go-redis/v9"
 )
 

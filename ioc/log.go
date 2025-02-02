@@ -1,7 +1,7 @@
 package ioc
 
 import (
-	"github.com/asynccnu/be-infoSum/pkg/logger"
+	"github.com/asynccnu/be-infosum/pkg/logger"
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"

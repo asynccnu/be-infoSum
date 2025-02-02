@@ -3,12 +3,12 @@
 package main
 
 import (
-	"github.com/asynccnu/be-infoSum/grpc"
-	"github.com/asynccnu/be-infoSum/ioc"
-	"github.com/asynccnu/be-infoSum/pkg/grpcx"
-	"github.com/asynccnu/be-infoSum/repository/cache"
-	"github.com/asynccnu/be-infoSum/repository/dao"
-	"github.com/asynccnu/be-infoSum/service"
+	"github.com/asynccnu/be-infosum/grpc"
+	"github.com/asynccnu/be-infosum/ioc"
+	"github.com/asynccnu/be-infosum/pkg/grpcx"
+	"github.com/asynccnu/be-infosum/repository/cache"
+	"github.com/asynccnu/be-infosum/repository/dao"
+	"github.com/asynccnu/be-infosum/service"
 	"github.com/google/wire"
 )
 

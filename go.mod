@@ -1,4 +1,4 @@
-module github.com/asynccnu/be-infoSum
+module github.com/asynccnu/be-infosum
 
 go 1.22.5
 

@@ -2,7 +2,7 @@ package dao
 
 import (
 	"context"
-	"github.com/asynccnu/be-infoSum/repository/model"
+	"github.com/asynccnu/be-infosum/repository/model"
 	"gorm.io/gorm"
 )
 

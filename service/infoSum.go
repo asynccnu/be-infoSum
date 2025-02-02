@@ -3,12 +3,12 @@ package service
 import (
 	"context"
 	infosumv1 "github.com/asynccnu/be-api/gen/proto/infoSum/v1"
-	"github.com/asynccnu/be-infoSum/domain"
-	"github.com/asynccnu/be-infoSum/pkg/errorx"
-	"github.com/asynccnu/be-infoSum/pkg/logger"
-	"github.com/asynccnu/be-infoSum/repository/cache"
-	"github.com/asynccnu/be-infoSum/repository/dao"
-	"github.com/asynccnu/be-infoSum/repository/model"
+	"github.com/asynccnu/be-infosum/domain"
+	"github.com/asynccnu/be-infosum/pkg/errorx"
+	"github.com/asynccnu/be-infosum/pkg/logger"
+	"github.com/asynccnu/be-infosum/repository/cache"
+	"github.com/asynccnu/be-infosum/repository/dao"
+	"github.com/asynccnu/be-infosum/repository/model"
 	"github.com/jinzhu/copier"
 	"time"
 )

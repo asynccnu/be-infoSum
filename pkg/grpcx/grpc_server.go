@@ -2,8 +2,8 @@ package grpcx
 
 import (
 	"context"
-	"github.com/asynccnu/be-infoSum/pkg/logger"
-	"github.com/asynccnu/be-infoSum/pkg/netx"
+	"github.com/asynccnu/be-infosum/pkg/logger"
+	"github.com/asynccnu/be-infosum/pkg/netx"
 
 	clientv3 "go.etcd.io/etcd/client/v3"
 	"go.etcd.io/etcd/client/v3/naming/endpoints"
